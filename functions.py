@@ -21,3 +21,7 @@ def user_register():
         user.append(password)
         print("Usuario creado exitosamente")
         print(user)
+
+
+def user_login():
+        print("Login")
